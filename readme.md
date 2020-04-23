@@ -1,6 +1,6 @@
-#Scores Hostoverview
-##Jupyter Notebook
-###Python
+# Scores Hostoverview
+## Jupyter Notebook
+### Python
 
 Ziel: Bereinigung der CSV-Daten von Scores für drei zusammengehörige Dateien (laufender Monat, Vormonat, laufender Monat 1 Jahr zuvor)
 Dateien:
