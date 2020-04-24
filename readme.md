@@ -8,5 +8,7 @@ Dateien:
 - files/Previous.csv (Vormonat)
 - files/CYear.csv (laufender Monat 1 Jahr zuvor)
 
-Output: JSON
+Output:
+- JSON
+- CSV
 
